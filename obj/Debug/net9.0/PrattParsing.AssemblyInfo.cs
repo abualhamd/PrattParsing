@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PrattParsing")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ad468ec628fbedfc17708ca24fba5bbe0c6bbdb3")]
 [assembly: System.Reflection.AssemblyProductAttribute("PrattParsing")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PrattParsing")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

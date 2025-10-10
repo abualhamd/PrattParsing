@@ -1,0 +1,15 @@
+/Users/abualhamd/dotnet_projects/PrattParsing/bin/Debug/net9.0/PrattParsing
+/Users/abualhamd/dotnet_projects/PrattParsing/bin/Debug/net9.0/PrattParsing.deps.json
+/Users/abualhamd/dotnet_projects/PrattParsing/bin/Debug/net9.0/PrattParsing.runtimeconfig.json
+/Users/abualhamd/dotnet_projects/PrattParsing/bin/Debug/net9.0/PrattParsing.dll
+/Users/abualhamd/dotnet_projects/PrattParsing/bin/Debug/net9.0/PrattParsing.pdb
+/Users/abualhamd/dotnet_projects/PrattParsing/obj/Debug/net9.0/PrattParsing.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abualhamd/dotnet_projects/PrattParsing/obj/Debug/net9.0/PrattParsing.AssemblyInfoInputs.cache
+/Users/abualhamd/dotnet_projects/PrattParsing/obj/Debug/net9.0/PrattParsing.AssemblyInfo.cs
+/Users/abualhamd/dotnet_projects/PrattParsing/obj/Debug/net9.0/PrattParsing.csproj.CoreCompileInputs.cache
+/Users/abualhamd/dotnet_projects/PrattParsing/obj/Debug/net9.0/PrattParsing.sourcelink.json
+/Users/abualhamd/dotnet_projects/PrattParsing/obj/Debug/net9.0/PrattParsing.dll
+/Users/abualhamd/dotnet_projects/PrattParsing/obj/Debug/net9.0/refint/PrattParsing.dll
+/Users/abualhamd/dotnet_projects/PrattParsing/obj/Debug/net9.0/PrattParsing.pdb
+/Users/abualhamd/dotnet_projects/PrattParsing/obj/Debug/net9.0/PrattParsing.genruntimeconfig.cache
+/Users/abualhamd/dotnet_projects/PrattParsing/obj/Debug/net9.0/ref/PrattParsing.dll
